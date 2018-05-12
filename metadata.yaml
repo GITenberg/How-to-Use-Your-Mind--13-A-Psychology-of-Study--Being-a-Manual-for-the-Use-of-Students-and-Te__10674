@@ -1,11 +1,16 @@
 _repo: How-to-Use-Your-Mind--13-A-Psychology-of-Study--Being-a-Manual-for-the-Use-of-Students-and-Te__10674
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kitson, Harry Dexter
     gutenberg_agent_id: '3628'
     url: http://www.gutenberg.org/2009/agents/3628
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/10674#How-to-Use-Your-Mind--13-A-Psychology-of-Study--Being-a-Manual-for-the-Use-of-Students-and-Te_
 gutenberg_issued: '2004-01-01'
 gutenberg_type: Text
 identifiers:
